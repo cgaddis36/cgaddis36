@@ -1,6 +1,7 @@
 ### Greetings Fellow Coders 👋
 
 Building highly personable applications designed to optimize efficiency and create solutions to real-world problems are my main goals as a developer.
+[](Screen%20Shot%202021-06-21%20at%204.19.07%20PM.png)
 - Currently Learning: React Native, React, iOS development
 - Well-rounded in: Ruby, GraphQL, PostgresQL, API construction, extraction & configuration
 Current Personal Project: ShoreCast
