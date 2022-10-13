@@ -1,5 +1,5 @@
 ### Greetings Fellow Coders 👋
-www.shorecasts.com
+www.shorecasts.com </br>
 www.bluesmancharters.com
 
 Building highly personable applications designed to optimize efficiency and create solutions to real-world problems are my main goals as a developer.
