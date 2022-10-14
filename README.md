@@ -2,6 +2,7 @@
 
 Building highly personable applications designed to optimize efficiency and create solutions to real-world problems are my main goals as a developer.
 </br>
+## Past Projects
 www.shorecasts.com </br>
 www.bluesmancharters.com </br>
 <img src="/Screen Shot 2021-06-21 at 4.19.07 PM.png" width=30% height=30%>
