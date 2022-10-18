@@ -9,10 +9,10 @@ Progressive web application Constructed to help recreational boaters & fishermen
 <img src="/ForecastsScreenshot.png" width=30% height=20%>
 <img src="/shopsScreenshot.png" width=30% height=20%>
 <img src="/GuidesScreenshot.png" width=30% height=20%>
-<img src="/loginScreenshot.png" width=30% height=20%> </br>
+<img src="/loginScreenshot.png" width=30% height=20%> 
 ### APIs 
 - National Weather Service
-- NOAA Currents & Predictions </br>
+- NOAA Currents & Predictions 
 ### Frameworks
 - Ruby on Rails
 - GraphQL
@@ -28,11 +28,10 @@ Progressive web application Constructed to help recreational boaters & fishermen
 ## LeapEasy Claims Form
 https://www.leapeasy.com/claim-form/ </br>
 Web application designed to automate the processes for landlords filing claims on their tenants.
-</br>
 ### Screenshots
 <img src="/leapClaimsp1.png" width=30% height=30%>
 <img src="/leapClaimsP2.png" width=30% height=30%>
-<img src="/leapClaimsP3.png" width=30% height=30%> </br>
+<img src="/leapClaimsP3.png" width=30% height=30%> 
 ### APIs
 - Salesforce
 ### Frameworks
