@@ -33,6 +33,7 @@ Web application designed to automate the processes for landlords filing claims o
 <img src="/leapClaimsp1.png" width=30% height=30%>
 <img src="/leapClaimsP2.png" width=30% height=30%>
 <img src="/leapClaimsP3.png" width=30% height=30%> 
+
 ### APIs
 - Salesforce
 ### Frameworks
@@ -74,7 +75,8 @@ iPhone application designed as the beta testing version for the first iteration 
 ### Screenshots
 <img src="/Screen Shot 2021-06-21 at 4.19.07 PM.png" width=30% height=30%>
 <img src="/Screen Shot 2021-06-21 at 4.20.32 PM.png" width=30% height=30%>
-<img src="/Screen Shot 2021-06-21 at 4.21.12 PM.png" width=30% height=30%> </br>
+<img src="/Screen Shot 2021-06-21 at 4.21.12 PM.png" width=30% height=30%> 
+
 ### Frameworks
 - React Native
 - Ruby on Rails
