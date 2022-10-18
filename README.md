@@ -25,7 +25,10 @@ PWA Constructed to help recreational boaters & fishermen access the data predict
 ### Bluesman Charters </br>
 www.bluesmancharters.com </br>
 PWA constructed for Blues Man Charters in Destin, Florida. Designed with simplicity in mind so that users can access the information easily on their cellphones or normal browsers. </br>
-
+**Frameworks:** </br>
+- React
+**Hosting Architecture** </br>
+- Frontend React Application: AWS Amplify
 
 
        
