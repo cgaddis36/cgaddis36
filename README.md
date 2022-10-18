@@ -43,7 +43,8 @@ Web application designed to automate the processes for landlords filing claims o
 
 ## Blues Man Charters
 **www.bluesmancharters.com** </br>
-Progressive web application designed to help a local charter boat business in Destin, FL easily book charters. Designed with simplicity prioritized in order to help users access the data from their mobile devices as esily as they can on their desktop. The Booking page was already built and sourced by another developer & I have noticed this link to be broken. 
+Progressive web application designed to help a local charter boat business in Destin, FL easily book charters. Designed with simplicity prioritized in order to help users access the data from their mobile devices as esily as they can on their desktop. The Booking page was already built and sourced by another developer & I have noticed this link to be broken. </br>
+<img src="/HomePage.png"> width=30% height=30% </br>
 ### Frameworks
 - React 
 ### Hosting Architecture
