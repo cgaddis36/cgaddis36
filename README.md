@@ -70,8 +70,7 @@ Progressive web application designed to help a local charter boat business in De
 ### Hosting Architecture
 - Frontend: AWS Amplify
 ### ShoreCasts iOS Application
-iPhone application designed as the beta testing version for the first iteration of ShoreCasts. Designed to help boaters locate their tides, wind, water temperatures and weather forecast by simply entering in the zipcode of the location they plan to be boating in. All datapoints are accessing the same apis as listed above for the ShoreCasts description under the Current Projects header.
-</br>
+iPhone application designed as the beta testing version for the first iteration of ShoreCasts. Designed to help boaters locate their tides, wind, water temperatures and weather forecast by simply entering in the zipcode of the location they plan to be boating in. All datapoints are accessing the same apis as listed above for the ShoreCasts description under the Current Projects header. </br>
 ### Screenshots
 <img src="/Screen Shot 2021-06-21 at 4.19.07 PM.png" width=30% height=30%>
 <img src="/Screen Shot 2021-06-21 at 4.20.32 PM.png" width=30% height=30%>
@@ -81,7 +80,7 @@ iPhone application designed as the beta testing version for the first iteration 
 - Ruby on Rails
 - GraphQL
 - PostgresQL
-### Testing Suite:
+### Testing Suite
 - rSpec
 ### Hosting Architecture
 - Frontend: Apple Connect Store
