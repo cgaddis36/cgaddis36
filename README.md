@@ -40,6 +40,19 @@ Web application designed to automate the processes for landlords filing claims o
 - Frontend: AWS Amplify
 - Backend: AWS Elastic Beanstalk using EC2 instance server
 - Database: AWS RDS
+## Promenade.ai Medical Service Locator
+Microservice designed to help veterans locate specific medical services to facilitate their navigation of post-military life. 
+### APIs
+- Designed and built REST API using a relational postgres database to house all of the data for Medical services.
+### Frameworks
+- React
+- Ruby on Rails
+- GraphQL
+### Testing Suite
+- RSpec
+### Hosting Architecture
+- Frontend: Heroku
+- Backend: Heroku
 
 ## Blues Man Charters
 **www.bluesmancharters.com** </br>
