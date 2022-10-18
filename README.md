@@ -6,18 +6,18 @@ www.shorecasts.com </br>
 Progressive web application Constructed to help recreational boaters & fishermen access the data predictions for the next 48 hrs of local fishing tides & the next week of hourly weather forecasts and summaries.</br>
 **APIs**
 - National Weather Service
-- NOAA Currents & Predictions
-**Frameworks:** </br>
+- NOAA Currents & Predictions </br>
+**Frameworks:** 
 - Ruby on Rails
 - GraphQL
 - React
-- redux
-**Testing Suite** </br>
-- rSpec
-**Hosting Architecture** </br>
+- redux </br>
+**Testing Suite** 
+- rSpec </br>
+**Hosting Architecture** 
 - Frontend React Application: AWS Amplify
 - Backend ruby on rails Application: AWS Elastic Beanstalk using EC2 instance server
-- Database: AWS RDS
+- Database: AWS RDS </br>
 ## Past Projects
 ### LeapEasy Claims Form
 https://www.leapeasy.com/claim-form/ </br>
@@ -65,9 +65,9 @@ iPhone application designed as the beta testing version for the first iteration 
 ### Bluesman Charters </br>
 www.bluesmancharters.com </br>
 PWA constructed for Blues Man Charters in Destin, Florida. Designed with simplicity in mind so that users can access the information easily on their cellphones or normal browsers. </br>
-**Frameworks:** </br>
-- React
-**Hosting Architecture** </br>
+**Frameworks:** 
+- React </br>
+**Hosting Architecture** 
 - Frontend React Application: AWS Amplify
 
 
