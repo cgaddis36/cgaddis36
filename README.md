@@ -27,6 +27,10 @@ Progressive web application Constructed to help recreational boaters & fishermen
 ## LeapEasy Claims Form
 https://www.leapeasy.com/claim-form/ </br>
 Web application designed to automate the processes for landlords filing claims on their tenants.
+</br>
+<img src="/leapClaimsp1.png" width=30% height=30%>
+<img src="/leapClaimsP2.png" width=30% height=30%>
+<img src="/leapClaimsP3.png" width=30% height=30%> </br>
 ### APIs
 - Salesforce
 ### Frameworks
