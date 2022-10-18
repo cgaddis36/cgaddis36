@@ -1,7 +1,6 @@
 # Greetings Fellow Coders 👋
 
-Building highly personable applications designed to optimize efficiency and create solutions to real-world problems are my main goals as a developer.
-</br>
+My main goals as a developer is to build highly personable applications designed to optimize efficiency and create solutions to real-world problems. </br>
 ## Past Projects
 ### ShoreCasts </br>
 www.shorecasts.com </br>
