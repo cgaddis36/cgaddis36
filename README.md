@@ -4,6 +4,7 @@ My main goal as a developer is to build highly personable applications designed 
 ## ShoreCasts PWA 
 www.shorecasts.com </br>
 Progressive web application Constructed to help recreational boaters & fishermen access the data predictions for the next 48 hrs of local fishing tides & the next week of hourly weather forecasts and summaries.</br>
+### Screenshots
 <img src="/p1Screenshot.png" width=30% height=20%>
 <img src="/ForecastsScreenshot.png" width=30% height=20%>
 <img src="/shopsScreenshot.png" width=30% height=20%>
@@ -28,6 +29,7 @@ Progressive web application Constructed to help recreational boaters & fishermen
 https://www.leapeasy.com/claim-form/ </br>
 Web application designed to automate the processes for landlords filing claims on their tenants.
 </br>
+### Screenshots
 <img src="/leapClaimsp1.png" width=30% height=30%>
 <img src="/leapClaimsP2.png" width=30% height=30%>
 <img src="/leapClaimsP3.png" width=30% height=30%> </br>
@@ -61,6 +63,7 @@ Microservice designed to help veterans locate specific medical services to facil
 ## Blues Man Charters
 **www.bluesmancharters.com** </br>
 Progressive web application designed to help a local charter boat business in Destin, FL easily book charters. Designed with simplicity prioritized in order to help users access the data from their mobile devices as esily as they can on their desktop. The Booking page was already built and sourced by another developer & I have noticed this link to be broken. </br>
+### Screenshot
 <img src="/HomePage.png" width=30% height=30%> </br>
 ### Frameworks
 - React 
@@ -68,7 +71,8 @@ Progressive web application designed to help a local charter boat business in De
 - Frontend: AWS Amplify
 ### ShoreCasts iOS Application
 iPhone application designed as the beta testing version for the first iteration of ShoreCasts. Designed to help boaters locate their tides, wind, water temperatures and weather forecast by simply entering in the zipcode of the location they plan to be boating in. All datapoints are accessing the same apis as listed above for the ShoreCasts description under the Current Projects header.
-**Screenshots of ShoreCasts Beta version on iOS** </br>
+</br>
+### Screenshots
 <img src="/Screen Shot 2021-06-21 at 4.19.07 PM.png" width=30% height=30%>
 <img src="/Screen Shot 2021-06-21 at 4.20.32 PM.png" width=30% height=30%>
 <img src="/Screen Shot 2021-06-21 at 4.21.12 PM.png" width=30% height=30%> </br>
