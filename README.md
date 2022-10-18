@@ -4,6 +4,7 @@ My main goal as a developer is to build highly personable applications designed 
 ## ShoreCasts PWA 
 www.shorecasts.com </br>
 Progressive web application Constructed to help recreational boaters & fishermen access the data predictions for the next 48 hrs of local fishing tides & the next week of hourly weather forecasts and summaries.</br>
+<img src="/Screen Shot 2022-10-18 at 10.40.59 AM.png" width=60% height=30%>
 ### APIs 
 - National Weather Service
 - NOAA Currents & Predictions </br>
