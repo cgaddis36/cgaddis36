@@ -1,5 +1,3 @@
-# Greetings Fellow Coders 👋
-My main goal as a developer is to build highly personable applications designed to optimize efficiency and create solutions to real world problems. </br>
 # Current Projects 
 ## ShoreCasts PWA 
 www.shorecasts.com </br>
