@@ -1,4 +1,19 @@
 # Current Projects 
+## Shrimp Republic E Commerce Application
+E Commerce website designed to let customers add items to their carts, check out and pay for their items.
+### Features
+- Shipping weights and estimated cost calculations
+- User Cart Functionality
+- User Login
+- Customer Checkout Process
+
+### Frameworks
+- Ruby on Rails
+- GraphQL
+- React
+- redux 
+### Currently In Progress and not yet hosted in Production
+
 ## ShoreCasts PWA 
 www.shorecasts.com </br>
 Progressive web application Constructed to help recreational boaters & fishermen access the weather, wind, tides & water temperature forecasts as well as information on local fishing stores & guides all in one central location. </br>
