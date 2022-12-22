@@ -1,9 +1,8 @@
 # Current Projects 
 ## Shrimp Republic E Commerce Application
-E Commerce website designed to let customers add items to their carts, check out and pay for their items.
 ### Features
 - Shipping weights and estimated cost calculations
-- User Cart Functionality
+- Shopping Cart Functionality
 - User Login
 - Customer Checkout Process
 
