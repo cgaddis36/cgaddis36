@@ -1,4 +1,19 @@
 # Current Projects 
+## Cyber Shrimp
+### 3D runner Microgame
+
+### Features
+- Endless running Game
+- 3 Difficulty Settings
+- Enemy Spawn & speed increase with higher difficulty selected
+- Invicible Shrimp powerup where player cannot take damage from enemies
+- Super Shrimp ability that allows the player to gain speed for 5 seconds and fastforward through 20 seconds of normal gameplay with an added boost to the player's Score
+
+### Technologies
+- unity 3d
+- c#
+- Blender
+
 ## Shrimp Republic E Commerce Application
 ### Features
 - Shipping weights and estimated cost calculations
