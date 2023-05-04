@@ -10,8 +10,8 @@
 - Super Shrimp ability that allows the player to gain speed for 5 seconds and fastforward through 20 seconds of normal gameplay with an added boost to the player's Score
 
 ### Technologies
-- unity 3d
-- c#
+- Unity 3d
+- C#
 - Blender
 
 ## Shrimp Republic E Commerce Application
