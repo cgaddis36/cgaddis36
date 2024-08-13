@@ -1,6 +1,5 @@
 # Completed Projects
 ## ShoreCasts PWA 
-www.shorecasts.com </br>
 Progressive web application Constructed to help recreational boaters & fishermen access the weather, wind, tides & water temperature forecasts as well as information on local fishing stores & guides all in one central location. </br>
 ### Screenshots
 <img src="/p1Screenshot.png" width=30% height=20%>
