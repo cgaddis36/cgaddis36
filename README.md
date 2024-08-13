@@ -1,33 +1,4 @@
-# Current Projects 
-## Cyber Shrimp
-### 3D runner Microgame
-
-### Features
-- Endless running Game
-- 3 Difficulty Settings
-- Enemy Spawn & speed increase with higher difficulty selected
-- Invicible Shrimp powerup where player cannot take damage from enemies
-- Super Shrimp ability that allows the player to gain speed for 5 seconds and fastforward through 20 seconds of normal gameplay with an added boost to the player's Score
-
-### Technologies
-- Unity 3d
-- C#
-- Blender
-
-## Shrimp Republic E Commerce Application
-### Features
-- Shipping weights and estimated cost calculations
-- Shopping Cart Functionality
-- User Login
-- Customer Checkout Process
-
-### Frameworks
-- Ruby on Rails
-- GraphQL
-- React
-- redux 
-### Currently In Progress and not yet hosted in Production
-
+# Completed Projects
 ## ShoreCasts PWA 
 www.shorecasts.com </br>
 Progressive web application Constructed to help recreational boaters & fishermen access the weather, wind, tides & water temperature forecasts as well as information on local fishing stores & guides all in one central location. </br>
@@ -52,7 +23,20 @@ Progressive web application Constructed to help recreational boaters & fishermen
 - Frontend React Application: AWS Amplify
 - Backend ruby on rails Application: AWS Elastic Beanstalk using EC2 instance server
 - Database: AWS RDS 
-# Past Projects
+## Cyber Shrimp
+### 3D runner Microgame
+
+### Features
+- Endless running Game
+- 3 Difficulty Settings
+- Enemy Spawn & speed increase with higher difficulty selected
+- Invicible Shrimp powerup where player cannot take damage from enemies
+- Super Shrimp ability that allows the player to gain speed for 5 seconds and fastforward through 20 seconds of normal gameplay with an added boost to the player's Score
+
+### Technologies
+- Unity 3d
+- C#
+- Blender
 ## LeapEasy Claims Form
 https://www.leapeasy.com/claim-form/ </br>
 Web application designed to automate the processes for landlords filing claims on their tenants.
